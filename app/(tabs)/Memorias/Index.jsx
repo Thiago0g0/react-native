@@ -9,7 +9,7 @@ const NavBar = () => {
         <Link href="/Navegacao" style={styles.navItem}>
           <Text style={styles.buttonText}>Home</Text>
         </Link>
-        <Link href="/" style={styles.navItem}>
+        <Link href="/Memorias/Tela2/Index" style={styles.navItem}>
           <Text style={styles.buttonText}>Adicionar Memorias</Text>
         </Link>
       </View>
